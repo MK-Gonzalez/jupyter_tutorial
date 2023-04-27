@@ -1,0 +1,17 @@
+name: jupyter-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - biopython
+  - jupyter
+  - jupyterlab
+  - nodejs
+  - pandas
+  - seaborn
+  - matplotlib
+  - ipywidgets
+  - nbconvert
+  - jinja2
+  - rpy2
